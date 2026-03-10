@@ -1,0 +1,41 @@
+EDUCATION
+KEY PROJECTS
+SSC (GSEB)
+ 
+HSC (GSHEB)
+ 
+Live Sports Score & Analytics Web App
+BACHELOR OF ENGINEERING IN INFORMATION TECHNOLOGY
+ 
+Fine-Tuned CNN Model with Flask API for Custom Design Recognition & Order Automation
+AshadeepSchool 4 | Surat, Gujarat | Percentage: 80.38% | March 2020 - May 2021
+AshadeepSchool 2 | Surat, Gujarat | Percentage: 87.38% | March 2019 - May 2020
+CharutarVidyaMandalUniversity | Anand,Gujarat | GPA:8.25/10 | Oct2021 - May 2025
+Built real-time sports analytics platform using Flask, delivering live scores, team stats, and head-to-head
+comparisons in interactive and scalable web interface
+Developed responsive front-end using Jinja2 templates and Bootstrap, ensuring seamless user experience
+across devices
+Integrated Flask-Admin for internal dashboard management and Flask-Login for secure authentication and
+session handling
+Implemented Celery with background workers to fetch and update live sports data asynchronously,
+ensuring real-time accuracy without blocking main application
+Applied API call optimization and Redis caching strategies to minimize latency and improve performance
+under high concurrent load
+Designed architecture supporting scalable user base and simultaneous live match tracking
+Developed and deployed fine-tuned ResNet50-based CNN model classifying customer-submitted design
+templates, automating processing of 1,000+ custom product orders daily with high accuracy
+Leveraged transfer learning with TensorFlow/Keras, customizing top layers of ResNet50 for domain-specific
+image classification
+Enhanced model performance using data augmentation, early stopping, and learning rate scheduling to
+ensure robustness and prevent overfitting
+Built and deployed Flask REST API serving real-time predictions, enabling seamless backend integration with
+order management and production systems
+Integrated model into web-based UI for support and operations teams, providing quick design validation and
+reducing manual workload by 70%
+Achieved significant improvements in order fulfillment speed, reduced error rates in template identification,
+and increased operational scalability
+Skills: CNN · ResNet50 · Fine-Tuning · Image Classification · TensorFlow/Keras · Flask API · Python · Deep Learning · Data
+Augmentation · Model Deployment · Order Automation
+Skills: Flask · Jinja2 · Bootstrap · Celery · Flask-Admin · Flask-Login · REST APIs · Redis Caching · Python · Real-Time Data · Web
+Development · Asynchronous Processing
+3/4

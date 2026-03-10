@@ -1,0 +1,46 @@
+HARSH VEKARIYA
+ 
+AI/ML Developer|Python|LLMSystems|ProductionMLEngineering
+AI/ML DEVELOPER | Enterprise Customer Service Platform | Team: 45-50 Members
+ 
+AI-PoweredCSRAgentwithMulti-SourceDataPipeline | Slack&ZendeskIntegration
+AI/ML Developer specializing in production-scale machine learning systems and intelligent automation.
+Engineered enterprise CSR chatbot serving 15,000+ products with 650% response time reduction and
+93% accuracy. Built end-to-end ML pipelines processing 1,000+ daily orders through fine-tuned CNN
+models. Expert in LLM integration, graph databases, and scalable backend systems using Python,
+TensorFlow, LangGraph, and Neo4j. Proven ability to deliver measurable business impact through
+intelligent automation and data-driven solutions.
+Business Impact:
+ harshvekariya3950@gmail.com | 
+LINKEDIN | 
+Achieved 650% reduction in customer response time through intelligent automation
+Delivered 93% accuracy in query resolution across 15,000+ products Scaled
+enterprise-level customer service operations with measurable ROI
+GITHUB
+Programming & Frameworks:
+AI/ML & Deep Learning:
+ Python, Flask, Django, JavaScript, HTML/CSS, C/C++, Jinja2 Templating
+LangChain, LangGraph, TensorFlow/Keras, NLP, Computer Vision, CNN,
+Transfer Learning, Fine-Tuning, LLM Integration, Prompt Engineering, RAG Systems
+Databases & Data Systems:
+DBeaver, SQL
+APIs & Web Development:
+Celery, Redis Caching
+DevOps & Tools:
+Optimization, Model Deployment
+Core Competencies:
+ Neo4j (Graph DB), MySQL, Vector Indexing, Full-Text Search, GraphDB,
+ RESTful APIs, Flask API, Real-Time Data Synchronization, Web Scraping,
+ Git/GitHub, Streamlit, Flask-Admin, Flask-Login, Bootstrap, API
+ Data Pipeline Architecture, Database Modeling, Multi-Source Integration,
+Production ML Systems, Real-Time Analytics
+📧
+💼 
+💻 
+TECHNICAL SKILLS
+PROFESSIONAL SUMMARY
+PROFESSIONAL EXPERIENCE
+1/4
+ADDITIONAL STRENGTHS
+Fast Learner · Problem-Solving · Time Management · Adaptability · Team Collaboration · Cross-Functional
+Communication · Technical Documentation

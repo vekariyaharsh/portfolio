@@ -1,0 +1,26 @@
+Architected and implemented automated multi-source data pipeline synchronizing Admin Dashboard APIs,
+vendor website scraping, and Slack-integrated CSV delivery data
+Designed real-time data flow ensuring seamless propagation of product updates, vendor metadata, and
+logistics information to CSR agent
+Built web scraping connectors for automated vendor site metadata extraction and synchronization
+API Integration & Orchestration:
+Integrated Admin Dashboard CRUD APIs enabling real-time product management synchronization
+Developed Slack API integration for delivery data ingestion and bi-directional customer interaction workflows
+Built RESTful API endpoints ensuring seamless communication across multiple data sources
+Retrieval System & Prompt Engineering:
+Designed LangGraph-based conditional routing system for intelligent query classification and Cypher query
+generation
+Developed prompt engineering framework for graph-based retrieval and MySQL agent coordination
+Implemented context-aware retrieval logic ensuring accurate responses across product catalog, orders, and
+delivery queries
+Database Architecture & Modeling:
+Engineered Neo4j graph database schema with automated relationship and node creation for 15,000+
+product entities
+Implemented hybrid indexing strategy combining vector similarity search and full-text context indexing for
+optimal retrieval performance
+Designed dual-database architecture integrating Neo4j (product knowledge graph) with MySQL (transactional
+order data)
+Technical Stack: Python, Neo4j,n8n,Qdrant, MySQL, LangGraph, LangChain, Vector Embeddings, REST APIs, Slack SDK,
+Web Scraping, Zendesk API
+2/4
+Data Pipeline Engineering:
